@@ -16,9 +16,9 @@
 
   // Replace these placeholders with your real public contact details.
   const PROFILE = {
-    email: 'YOUR_EMAIL@example.com',
-    linkedin: 'https://www.linkedin.com/in/YOUR_PROFILE/',
-    github: 'https://github.com/YOUR_USERNAME'
+    email: 'djoukennebristol@gmail.com',
+    linkedin: 'https://www.linkedin.com/in/djou-kenne-bristol-683985227/',
+    github: 'https://github.com/Bristoldo'
   };
 
   const emailLink = document.getElementById('email-link');
